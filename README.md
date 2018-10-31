@@ -1,2 +1,2 @@
 # Weather
-An app to display your local weather
+A widget to display your local weather
